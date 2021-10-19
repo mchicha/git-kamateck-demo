@@ -1,3 +1,1 @@
-print(Hello World)
-my new feature
-master: my new feature
+print("Hello to World Git")
